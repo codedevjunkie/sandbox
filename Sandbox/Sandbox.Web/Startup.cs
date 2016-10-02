@@ -10,6 +10,7 @@ using Microsoft.Extensions.Logging;
 
 namespace Sandbox.Web
 {
+    //startup
     public class Startup
     {
         public Startup(IHostingEnvironment env)
