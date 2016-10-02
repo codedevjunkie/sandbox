@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Hosting;
 
 namespace Sandbox.Web
 {
-    //tests
+    //test
     public class Program
     {
         public static void Main(string[] args)
